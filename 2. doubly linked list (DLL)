@@ -142,8 +142,8 @@ void main()
     int choice =0,i,j;
     while(1)   
     {  
-       printf("\n0.insertafter\n1.insertFirst\n2.insertLast\n3.deleteLast\n4.Deletefirst\n5.delete\n6.display    
-       Forward\n7.displayBackward\n8.exit");  
+       printf("\n0.insertafter\n1.insertFirst\n2.insertLast\n3.deleteLast\n4.Deletefirst\n5.delete\n6.displayForward\n7.displayBackward\n8.exit");    
+      
         printf("\nEnter your choice?\n");         
         scanf("%d",&choice);  
         switch(choice)  
